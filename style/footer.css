@@ -1,0 +1,122 @@
+footer {
+    height: 337px;
+    width: 100%;
+    margin-top: 55px;
+
+}
+.footer-container {
+    height: 100%;
+    width: 96%;
+  
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: stretch;
+    direction: rtl;
+
+}
+.footer-menu-logo {
+width: 119px;
+height: 244px;
+
+display: flex;
+
+justify-content: center;
+}
+.footer-menu-logo div {
+    height:35px ;
+    width: 89px;
+}
+.footer-menu-items {
+    width: 238px;
+height: 244px;
+margin-right: 20px;
+font-size: 20px;
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+}
+
+.footer-menu-items h5 {
+    color: #07142c;
+    font-weight: 500;
+    font-size: 23px;
+}
+
+.footer-menu-items li {
+ padding: 5px 0;
+    list-style-type: none;
+}
+.footer-menu-items a {
+    color: #7f838f;
+    text-decoration: none;
+}
+.footer-menu-items ul {
+    padding-right: 0;
+}
+.social-contact-part {
+    width: 357px;
+    height: 244px;
+    
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+.social-contact-part li {
+    list-style-type: none;
+}
+.social-part-ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-left: 23px;
+
+}
+.social-part-ul i{
+    font-size: 25px;
+    color: #565a64 !important;
+}
+.social-part-ul li {
+    width: 80px;
+    height: 80px;
+    border-radius: 100%;
+    border: 1px solid rgba(127,131,143,.15);
+    margin: 0px 8px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    
+}
+.contain {
+    overflow: hidden;
+    margin-top: 10px;
+    margin: 0;
+    height: 45px;
+    width: 100%;
+    border-top: 1px solid  rgba(127,131,143,.15); 
+}
+.row-footer-end { 
+    
+    height: 100%;
+    width: 96%;
+    direction: rtl;
+    display: flex;
+    flex-direction: row;
+    justify-content: right;
+    align-items: center;
+} 
+.row-footer-end i {
+    color: #1a879f;
+    font-size: 20px;
+    margin-left: 15px;
+}
+.row-footer-end h6 {
+    color: #a0a3ad;
+    font-size: 17px;
+}

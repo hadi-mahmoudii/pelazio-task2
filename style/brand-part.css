@@ -1,0 +1,50 @@
+.brand-part {
+    width: 100%;
+    height: 259px;
+margin-top: 30px;
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.column-part-brand {
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    
+}
+.icon-part {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+.university-icon {
+   font-size: 22px;
+   margin: 3px 10px 0 10px;
+}
+.brands-row {
+    margin-top: 20px;
+    width: 100%;
+    height: 233px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+   
+    overflow: hidden;
+}
+.brands-img {
+    width: 233px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    overflow: hidden;
+}
+.about-pelazio-part {
+    margin-top: 15px;
+}

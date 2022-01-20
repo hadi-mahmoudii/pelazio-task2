@@ -1,0 +1,25 @@
+.categoty-part {
+    width: 1431px;
+    height: 209px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+}
+.container-category-part {
+    height: 80%;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+.category-div {
+    width: 477px;
+    height: 200px;
+    border-radius: 15px;
+    
+    margin-left: 30px;
+    overflow: hidden;
+}
